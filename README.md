@@ -31,3 +31,11 @@ To make a valid Pull Request, it boils down to:
 3. Committing your changes
 4. Submitting the Pull Request
 
+## Maintainer
+
+Whenever there is a commit added to this repository, it triggers the CI script
+.travis.yml. This script execute a HTTP call to trigger the DASH-IF website
+build script. This call is sent to the Travis CI API. The call to the API is
+authenticated using a Travis Token of someone having access permission to the
+DASH-IF website repository build on Travis. The Token is insert into the script
+using the key TRAVIS_TOKEN.
