@@ -1,4 +1,4 @@
-language: python
+language: minimal
 
 script:
   - ./scripts/trigger_website_build.sh $TRAVIS_TOKEN
