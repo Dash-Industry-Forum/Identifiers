@@ -1,2 +1,2 @@
-urn:mpeg:dash:event:2012|ISO/IEC 23009-1 [5]||5.10.4|This URI is defined to identify DASH specific events that are of relevance for the DASH client.
+urn:mpeg:dash:event:2012|ISO/IEC 23009-1||5.10.4|This URI is defined to identify DASH specific events that are of relevance for the DASH client.
 urn:dvb:iptv:cpm:2014|ETSI TS 103 285||9.1.2.1|Content programme metadata may be delivered in the MPD by using an EventStream or in Media Segments using an InbandEventStream. It provides content identifiers and basic metadata relating to the current programme.
