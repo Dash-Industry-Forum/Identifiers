@@ -10,7 +10,7 @@ Request is described bellow.
 1. Login on GitHub using your personal account (create one if needed)
 2. Fork the repository into your own area at GitHub
 3. Go to that fork, and edit the CSV files in the folder /csv according to your submission (e.g. adding, removing identifiers ...)
-4. When it is right, submit a Pull Request the repository here.
+4. When it is right, submit a Pull Request to the repository here.
 
 ## Guidelines for CSV formatting (step 3)
 
@@ -27,11 +27,11 @@ the CSV files is composed of exactly 5 fields following the same pattern
 To make a valid Pull Request, it boils down to:
 
 1. Choosing the right CSV file corresponding to your identifier
-2. Modifying the chosen CSV file with your proposed identifier according to the patter above
+2. Modifying the chosen CSV file with your proposed identifier according to the pattern above
 3. Committing your changes
 4. Submitting the Pull Request
 
-## Maintainer
+## For maintainer
 
 Whenever there is a commit added to this repository, it triggers the CI script
 .travis.yml. This script execute a HTTP call to trigger the DASH-IF website
