@@ -1,7 +1,7 @@
 language: python
 
 script:
-  - ./script/trigger_website_build.sh $TRAVIS_TOKEN
+  - ./scripts/trigger_website_build.sh $TRAVIS_TOKEN
 
 notifications:
   email:
