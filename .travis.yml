@@ -1,7 +1,12 @@
 language: minimal
 
-script:
-  - ./scripts/trigger_website_build.sh $TRAVIS_TOKEN
+script: echo "No test yet."
+
+deploy:
+  provider: script
+  script: ./scripts/trigger_website_build.sh $TRAVIS_TOKEN
+  on:
+    branch: master
 
 notifications:
   email:
