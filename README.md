@@ -1,4 +1,4 @@
-# DASH-IF Identifier Registry
+# DASH-IF Identifier Catalogue
 
 This repository collects the list of existing identifiers, however it does not
 act as an registration authority. Requests for adding an identifier are
