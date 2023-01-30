@@ -1,3 +1,3 @@
-urn:mpeg:dash:event:2012|ISO/IEC 23009-1||5.10.4|<ul><li>MPD validity expiration event(expiration only, with MPD patch, with complete updated MPD)</li><li>on-receive</li></ul>
-urn:mpeg:dash:event:callback:2015|ISO/IEC 23009-1||5.10.4.5.2|<ul><li>DASH callback event</li><li>on-start</li></ul>
-urn:mpeg:dash:event:ttfn:2016|ISO/IEC 23009-1||5.10.4.6|<ul><li>Presentation termination event</li><li>on-start</li></ul>
+urn:mpeg:dash:event:2012|ISO/IEC 23009-1||5.10.4|MPD validity expiration event(expiration only, with MPD patch, with complete updated MPD). Inband event. on-receive mode.
+urn:mpeg:dash:event:callback:2015|ISO/IEC 23009-1||5.10.4.5.2|DASH callback event. MPD or inband event. on-start mode.
+urn:mpeg:dash:event:ttfn:2016|ISO/IEC 23009-1||5.10.4.6| Presentation termination event. MPD or inband event. on-start mode.
