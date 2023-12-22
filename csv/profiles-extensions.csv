@@ -1,13 +1,13 @@
-https://dashif.org/guidelines/dashif#ec-3|DASH-IF IOP|/identifiers/references#dash264|section 9.4.2.3|Identifier for DASH-IF multichannel audio extension with Enhanced AC-3
-https://dashif.org/guidelines/dashif#mlpa|DASH-IF IOP|/identifiers/references#dash264|section 9.4.2.3|Identifier for DASH-IF multichannel audio extension with Dolby True HD
-https://dashif.org/guidelines/dashif#dtsc|DASH-IF IOP|/identifiers/references#dash264|section 9.4.3.3|DASH-IF multichannel audio extension with DTS Digital Surround
-https://dashif.org/guidelines/dashif#dtsh|DASH-IF IOP|/identifiers/references#dash264|section 9.4.3.3|DASH-IF multichannel audio extension with DTS-HD High Resolution and DTS-HD Master Audio
-https://dashif.org/guidelines/dashif#dtse|DASH-IF IOP|/identifiers/references#dash264|section 9.4.3.3|DASH-IF multichannel audio extension with with DTS Express
-https://dashif.org/guidelines/dashif#dtsl|DASH-IF IOP|/identifiers/references#dash264|section 9.4.3.3|DASH-IF multichannel audio extension with DTS-HD Lossless (no core)
-https://dashif.org/guidelines/dashif#mps|DASH-IF IOP|/identifiers/references#dash264|section 9.4.3.3|DASH-IF multichannel audio extension with MPEG Surround
-https://dashif.org/guidelines/dashif#heaac-mc51|DASH-IF IOP|/identifiers/references#dash264|section 9.4.5.3|DASH-IF multichannel audio extension with HE-AACv2 level 4
-https://dashif.org/guidelines/dashif#heaac-mc71|DASH-IF IOP|/identifiers/references#dash264|section 9.4.5.3|DASH-IF multichannel audio extension with HE-AACv2 level 6
-https://dashif.org/guidelines/dashif#ac-4|DASH-IF IOP|/identifiers/references#dash264|section 9.4.2.3|Extension to support multichannel extension with AC-4
-https://dashif.org/guidelines/dashif#mha1|DASH-IF IOP|/identifiers/references#dash264|section 9.4.6.3|Extension to support multichannel audio with MPEG-H 3D Audio 1
-https://dashif.org/guidelines/dashif#mha2|DASH-IF IOP|/identifiers/references#dash264|section 9.4.6.3|Extension to support multichannel audio with MPEG-H 3D Audio 2
+https://dashif.org/guidelines/dashif#ec-3|DASH-IF IOP|/identifiers/references#dash264|9.4.2.3|Identifier for DASH-IF multichannel audio extension with Enhanced AC-3
+https://dashif.org/guidelines/dashif#mlpa|DASH-IF IOP|/identifiers/references#dash264|9.4.2.3|Identifier for DASH-IF multichannel audio extension with Dolby True HD
+https://dashif.org/guidelines/dashif#dtsc|DASH-IF IOP|/identifiers/references#dash264|9.4.3.3|DASH-IF multichannel audio extension with DTS Digital Surround
+https://dashif.org/guidelines/dashif#dtsh|DASH-IF IOP|/identifiers/references#dash264|9.4.3.3|DASH-IF multichannel audio extension with DTS-HD High Resolution and DTS-HD Master Audio
+https://dashif.org/guidelines/dashif#dtse|DASH-IF IOP|/identifiers/references#dash264|9.4.3.3|DASH-IF multichannel audio extension with with DTS Express
+https://dashif.org/guidelines/dashif#dtsl|DASH-IF IOP|/identifiers/references#dash264|9.4.3.3|DASH-IF multichannel audio extension with DTS-HD Lossless (no core)
+https://dashif.org/guidelines/dashif#mps|DASH-IF IOP|/identifiers/references#dash264|9.4.3.3|DASH-IF multichannel audio extension with MPEG Surround
+https://dashif.org/guidelines/dashif#heaac-mc51|DASH-IF IOP|/identifiers/references#dash264|9.4.5.3|DASH-IF multichannel audio extension with HE-AACv2 level 4
+https://dashif.org/guidelines/dashif#heaac-mc71|DASH-IF IOP|/identifiers/references#dash264|9.4.5.3|DASH-IF multichannel audio extension with HE-AACv2 level 6
+https://dashif.org/guidelines/dashif#ac-4|DASH-IF IOP|/identifiers/references#dash264|9.4.2.3|Extension to support multichannel extension with AC-4
+https://dashif.org/guidelines/dashif#mha1|DASH-IF IOP|/identifiers/references#dash264|9.4.6.3|Extension to support multichannel audio with MPEG-H 3D Audio 1
+https://dashif.org/guidelines/dashif#mha2|DASH-IF IOP|/identifiers/references#dash264|9.4.6.3|Extension to support multichannel audio with MPEG-H 3D Audio 2
 urn:dvb:dash:dash-extensions:2014-1|ETSI TS 103 285|http://www.etsi.org/deliver/etsi_ts/103200_103299/103285/01.01.01_60/ts_103285v010101p.pdf|clause 10.8.2.1|A new attributeGroup, containing two attributes, is defined by the present document. It is part of the schema with the namespace `urn:dvb:dash:dash-extensions:2014-1` which is included in the ZIP file attached to the present document. This attributeGroup, called baseUrlAttributes, shall only be used to extend the BaseURL element as indicated in clause 10.8.2.1.
